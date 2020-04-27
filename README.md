@@ -1,6 +1,7 @@
 # 20200427-MikePhan-NYCSchools
 
  Simple API/JSON Exercise using React-Native framework via expo-cli and ejected to Android and iOS platforms.
+ NOTE: Code written in React-Native is under the 'src' in this respository
  
  Installation via expo:
  -----------------
